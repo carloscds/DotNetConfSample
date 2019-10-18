@@ -2,3 +2,4 @@
 
 You can improve your legacy code creating something in .NET Standard (.NET Core)
 
+Take a look of PPT folder for explanations.
