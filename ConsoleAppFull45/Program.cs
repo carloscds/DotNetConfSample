@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using LibraryCoreStandard;
 
-namespace ConsoleAppFul45
+namespace ConsoleAppFull45
 {
     class Program
     {

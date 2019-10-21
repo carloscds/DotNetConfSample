@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleCore", "ConsoleCore\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryEF", "LibraryEF\LibraryEF.csproj", "{63A54DDD-6222-4777-96C1-E10644F783D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppFul45", "ConsoleAppFul45\ConsoleAppFul45.csproj", "{BB0FAB83-E62A-43A7-BEEE-D7AB45477BB3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppFull45", "ConsoleAppFull45\ConsoleAppFull45.csproj", "{BB0FAB83-E62A-43A7-BEEE-D7AB45477BB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
