@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29311.281
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleFull", "ConsoleFull\ConsoleFull.csproj", "{4348430B-B7C8-4C3D-B283-12B69A5D100B}"
 EndProject
@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleCore", "ConsoleCore\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryEF", "LibraryEF\LibraryEF.csproj", "{63A54DDD-6222-4777-96C1-E10644F783D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppFull45", "ConsoleAppFull45\ConsoleAppFull45.csproj", "{BB0FAB83-E62A-43A7-BEEE-D7AB45477BB3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppFull48", "ConsoleAppFull48\ConsoleAppFull48.csproj", "{BB0FAB83-E62A-43A7-BEEE-D7AB45477BB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

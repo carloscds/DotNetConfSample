@@ -24,15 +24,6 @@ namespace ConsoleAppFull45
             {
                 Console.WriteLine($"{s.ID} - {s.Name}");
             }
-
-            var serviceEF = new CustomerServiceEF();
-            Console.WriteLine("\n\n");
-            Console.WriteLine("Chamando a Library com EF Core");
-            Console.WriteLine("------------------------------");
-            foreach (var s in serviceEF.GetAll())
-            {
-                Console.WriteLine($"{s.CustomerID} - {s.CompanyName}");
-            }
         }
     }
 }
