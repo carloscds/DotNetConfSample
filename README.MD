@@ -4,6 +4,6 @@ Você pode melhorar seu código legado (.NET Framework) criando ou evoluindo par
 
 Veja o diretório de PPTs e o exemplo.
 
-### Aqui temos o desenho da aplicação exemplo e como os projetos se conectam:
+#### Aqui temos o desenho da aplicação exemplo e como os projetos se conectam:
 
 ![](SampleDiagram.png)
