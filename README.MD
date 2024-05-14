@@ -1,7 +1,7 @@
-## This is a sample of integration between .NET Core and .NET Standard project
+## Este é um exemplo de integração entre o .NET Core e o .NET Standard
 
-You can improve your legacy code creating something in .NET Standard (.NET Core)
+Você pode melhorar seu código legado (.NET Framework) criando ou evoluindo partes deste código para .NET Core usando o .NET Standard.
 
-Take a look of PPT folder for explanations and image bellow to understand Sample.
+Veja o diretório de PPTs e o exemplo.
 
 ![](SampleDiagram.png)
