@@ -1,6 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.SqlServer;
-using System;
 
 namespace LibraryEF
 {

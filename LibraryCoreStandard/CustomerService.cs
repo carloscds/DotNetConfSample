@@ -3,6 +3,9 @@ using System.Collections.Generic;
 
 namespace LibraryCoreStandard
 {
+    /// <summary>
+    /// Servico em Memória, não tem persistência
+    /// </summary>
     public class CustomerService
     {
         private List<Customer> _customer;

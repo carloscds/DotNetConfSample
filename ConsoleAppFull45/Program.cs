@@ -11,18 +11,27 @@ namespace ConsoleAppFull45
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is a Console .NET 4.5.2");
-            Console.WriteLine("****************************\n\n");
+            Console.WriteLine("** Console .NET 4.5.2 **");
+            Console.WriteLine("------------------------\n\n");
             var service = new CustomerService();
             service.Add(new Customer() { ID = 1, Name = "Carlos" });
             service.Add(new Customer() { ID = 2, Name = "John" });
             service.Add(new Customer() { ID = 3, Name = "Mary" });
 
-            Console.WriteLine("Calling Library from .NET Standard Project with .NET 4.5.2");
-            Console.WriteLine("----------------------------------------------------------");
+            Console.WriteLine("Chamando uma Library em .NET Standard de um projeto .NET 4.5.2");
+            Console.WriteLine("--------------------------------------------------------------");
             foreach (var s in service.GetAll())
             {
                 Console.WriteLine($"{s.ID} - {s.Name}");
+            }
+
+            var serviceEF = new CustomerServiceEF();
+            Console.WriteLine("\n\n");
+            Console.WriteLine("Chamando a Library com EF Core");
+            Console.WriteLine("------------------------------");
+            foreach (var s in serviceEF.GetAll())
+            {
+                Console.WriteLine($"{s.CustomerID} - {s.CompanyName}");
             }
         }
     }
